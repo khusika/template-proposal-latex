@@ -12,6 +12,16 @@ $ git clone https://gitlab.com/template-tugasakhir-latex/template-proposal-latex
 Silahkan `checkout` *branch* yang anda inginkan. *untuk saat ini hanya
 branch filkom yang tersedia*
 
+## Pengisian Data
+
+Isi data diri anda pada berkas `proposal.tex` pada bagian "Fill your
+data here".
+
+## Menambah Daftar Pustaka
+
+Silahkan tambahkan daftar pustaka anda pada berkas
+`daftar-pustaka.bib`
+
 ## Ekspor ke PDF
 
 Anda dapat mengekspor ke PDF dengan cara:
@@ -27,5 +37,8 @@ chmod +x compile-latex.sh
 ./compile-latex.sh
 ```
 
-Anda dapat menghapus berkas aux yang dihasilkan latex dengan `delete-aux.sh`
+Anda dapat menghapus berkas aux yang dihasilkan latex dengan
+`delete-aux.sh`
+
+
 
