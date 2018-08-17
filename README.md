@@ -1,6 +1,8 @@
 # Template Proposal LaTeX
 
+## Panduan
 
+Silahkan merujuk pada [docs](docs/)
 
 ## Pengembang
 
