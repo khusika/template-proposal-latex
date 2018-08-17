@@ -31,7 +31,7 @@ detail. Cukup lakukan pencarian dengan kata kunci "why latex". Tetapi
   waktu yang lebih lama jika bekerja diluar.
 - *I get homesick when I'm outside Emacs* &#x1f60e;
 
-* Silahkan tambahkan alasan anda pada branch kontribusi yang anda buat* :)
+*Silahkan tambahkan alasan anda pada branch kontribusi yang anda buat* :)
 
 
 ## Hasil Ekspor
