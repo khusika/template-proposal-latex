@@ -4,6 +4,34 @@
 
 Silahkan merujuk pada [docs](docs/)
 
+## Mengapa LaTeX ?
+
+Sudah banyak sekali sumber yang dapat menjawab pertanyaan ini secara
+detail. Cukup lakukan pencarian dengan kata kunci "why latex". Tetapi
+'opinionated reason' saya adalah:
+
+- Saya mengerjakan banyak hal di
+  [Emacs](https://www.gnu.org/software/emacs/). [org-mode](http://orgmode.org/)
+  cukup baik untuk membuat banyak dokumen yang saya perlunakan. Tetapi
+  saya butuh [LaTeX](https://www.latex-project.org/) untuk membuat
+  dokumen yang lebih kompleks.
+- Saya dapat dengan mudah menggunakan *revision control*, sehingga
+  tidak ada lagi dokumen dengan nama 'jadi1', 'jadibanget',
+  'jadifinal'.
+- Kemudahan untuk membuat *branch* baru ketika ada revisi. Sehingga
+  saya mudah untuk mengatur dokumen dengan perubahan mana yang
+  harus saya gunakan.
+- Kelebihan semua *revision control* tentunya.
+- Menulis LaTeX di Emacs dengan bantuan beberapa packages. Saya
+  dapat dengan mudah mendapatkan fitur *completion* pada sitasi dan
+  beragam fitur lainnya.
+- Saya dapat fokus pada konten dan tidak terdistraksi dengan gambar
+  disana sini.
+- Saya cukup terbiasa menggunakan *keybinding* pada emacs, sehingga
+  butuh waktu yang lebih lama jika bekerja diluar.
+- *I get homesick when I'm outside Emacs* &#x1f60e;
+
+
 ## Hasil Ekspor
 
 Hasil ekspor ke [pdf](/uploads/b9fce4ce2e77fd8f8ade938f5adc32a3/proposal.pdf)
