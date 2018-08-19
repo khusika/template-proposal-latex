@@ -1,5 +1,12 @@
 # Penggunaan
 
+## Prasyarat
+
+Anda direkomendasikan untuk memiliki instalasi TexLive 2018 atau
+terbaru. Kami merekomendasikan anda untuk mengikuti panduan
+[ini](https://tex.stackexchange.com/questions/1092/how-to-install-vanilla-texlive-on-debian-or-ubuntu/95373#95373).
+
+
 ## Memulai
 
 Anda dapat mengunduh *repository* ini dengan cara manual atau
