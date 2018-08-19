@@ -18,6 +18,7 @@ detail. Cukup lakukan pencarian dengan kata kunci "why latex". Tetapi
 - Saya dapat dengan mudah menggunakan *revision control*. Sehingga
   tidak ada lagi dokumen dengan nama 'jadi1', 'jadibanget',
   'jadifinal'.
+- Kemudahan sitasi. tidak perlu lagi menulis semua sitasi secara manual.
 - Kemudahan untuk membuat *branch* baru ketika ada revisi. Sehingga
   saya mudah untuk mengatur dokumen dengan perubahan mana yang
   harus saya gunakan.
