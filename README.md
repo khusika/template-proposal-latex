@@ -42,6 +42,12 @@ detail. Cukup lakukan pencarian dengan kata kunci "why latex". Tetapi
 Hasil ekspor ke [pdf](/uploads/b9fce4ce2e77fd8f8ade938f5adc32a3/proposal.pdf)
 *PS: ekspor ini bisa jadi tidak sesuai dengan perubahan terbaru*
 
+## Daftar Template
+
+- Filkom-UB
+
+
 ## Pengembang
 
 Lihat [AUTHORS](https://github.com/azzamsa/template-skripsi-id/blob/master/AUTHORS)
+
