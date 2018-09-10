@@ -52,6 +52,24 @@ ex ut turpis. Morbi auctor, erat vitae semper cursus, nibh ipsum
 tristique lorem, maximus ultrices massa neque eu risus. Interdum et
 malesuada fames ac ante ipsum primis in faucibus.
 
+\begin{longtable}[c]{|l|l|p{3cm}|p{7cm}|} % <-- Replaces \begin{table}, alignment must be specified here
+  \caption{Multipage table.}
+  \label{tab:table1}\\
+  \toprule
+  \hline \textbf{No} & \textbf{Kode} & \textbf{Nama Fungsi} & \textbf{Deskripsi}\\ \hline
+  \midrule
+  \endfirsthead % <-- This denotes the end of the header, which will be shown on the first page only
+  \toprule
+  %\textbf{No} & \textbf{Kode} & \textbf{Nama Fungsi} & \textbf{Deskripsi}\\ \hline <-- Uncomment this line with remove %
+  \midrule
+  \endhead % <-- Everything between \endfirsthead and \endhead will be shown as a header on every page
+1 & FNLS-F-A-01 & Lorem ipsum dolor sit amet& consectetur adipiscing elit. Praesent lobortis sem ac lacus molestie suscipit. Vivamus sit amet orci lectus. Vestibulum purus nisi, hendrerit vitae mauris non, ornare hendrerit ex. Praesent fermentum quam at ipsum imperdiet egestas. Praesent non lacus nec erat maximus vulputate cursus nec lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed id faucibus augue, vel pellentesque sapien. Phasellus sed lectus risus. Ut sit amet arcu mattis, pellentesque tellus ornare, placerat augue. Suspendisse condimentum vulputate orci quis ornare.\\ \hline
+2 & FNLS-F-A-02 & Lorem ipsum dolor sit amet& consectetur adipiscing elit. Praesent lobortis sem ac lacus molestie suscipit. Vivamus sit amet orci lectus. Vestibulum purus nisi, hendrerit vitae mauris non, ornare hendrerit ex. Praesent fermentum quam at ipsum imperdiet egestas. Praesent non lacus nec erat maximus vulputate cursus nec lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed id faucibus augue, vel pellentesque sapien. Phasellus sed lectus risus. Ut sit amet arcu mattis, pellentesque tellus ornare, placerat augue. Suspendisse condimentum vulputate orci quis ornare.\\ \hline
+3 & FNLS-F-A-03 & Lorem ipsum dolor sit amet& consectetur adipiscing elit. Praesent lobortis sem ac lacus molestie suscipit. Vivamus sit amet orci lectus. Vestibulum purus nisi, hendrerit vitae mauris non, ornare hendrerit ex. Praesent fermentum quam at ipsum imperdiet egestas. Praesent non lacus nec erat maximus vulputate cursus nec lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed id faucibus augue, vel pellentesque sapien. Phasellus sed lectus risus. Ut sit amet arcu mattis, pellentesque tellus ornare, placerat augue. Suspendisse condimentum vulputate orci quis ornare.\\ \hline
+4 & FNLS-F-A-04 & Lorem ipsum dolor sit amet& consectetur adipiscing elit. Praesent lobortis sem ac lacus molestie suscipit. Vivamus sit amet orci lectus. Vestibulum purus nisi, hendrerit vitae mauris non, ornare hendrerit ex. Praesent fermentum quam at ipsum imperdiet egestas. Praesent non lacus nec erat maximus vulputate cursus nec lacus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed id faucibus augue, vel pellentesque sapien. Phasellus sed lectus risus. Ut sit amet arcu mattis, pellentesque tellus ornare, placerat augue. Suspendisse condimentum vulputate orci quis ornare.\\ \hline
+  \bottomrule
+\end{longtable}
+
 \begin{itemize}
 \item Dolor
 \item Sit
