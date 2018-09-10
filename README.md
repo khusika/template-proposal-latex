@@ -19,12 +19,12 @@ detail. Cukup lakukan pencarian dengan kata kunci "why latex". Tetapi
 - Menulis LaTeX dengan *text editor* favorit memberikan banyak
   manfaat. Seperti kecepatan *editing*, *completion*, *revision
   control integration* dan banyak lainnya. Terutama *keybinding* yang
-  tidak tersedia di luar *text editor* favorit kita.
+  tidak tersedia di luar *text editor* favorit kita (*I get homesick
+  when I'm outside Emacs*).
 - Lebih fokus pada konten dan tidak terdistraksi dengan gambar
-  disana sini.
-- *I get homesick when I'm outside Emacs* &#x1f60e;
+  di sana sini.
 
-*PS: tentu anda dapat menggunakan text-editor kesukaan anda*
+\* *PS: tentu anda dapat menggunakan text-editor kesukaan anda*
 
 *Silahkan tambahkan alasan anda pada branch kontribusi yang anda buat* :)
 
