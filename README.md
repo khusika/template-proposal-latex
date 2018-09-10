@@ -20,7 +20,7 @@ detail. Cukup lakukan pencarian dengan kata kunci "why latex". Tetapi
   manfaat. Seperti kecepatan *editing*, *completion*, *revision
   control integration* dan banyak lainnya. Terutama *keybinding* yang
   tidak tersedia di luar *text editor* favorit kita (*I get homesick
-  when I'm outside Emacs* \*).
+  when I'm outside [Emacs](https://www.gnu.org/software/emacs/)* \*).
 - Lebih fokus pada konten dan tidak terdistraksi dengan gambar
   di sana sini.
 
